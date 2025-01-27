@@ -5,6 +5,8 @@ public class Demo {
         System.out.println("Ajit");
 	System.out.println("mom");
 	System.out.println("Amit");
+System.out.println("dad");
+	
     }
 
 }
